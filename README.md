@@ -5,7 +5,6 @@ My name is Josh Pitts. I like to code and hack, but not in that order. I like to
 <!--
 **secretsquirrel/secretsquirrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I'm currently working adding research and code for my [sponsors](https://github.com/sponsors/secretsquirrel)
 - 🐥 Twitter: [@usernamedjosh](https://twitter.com/ausernamedjosh)
