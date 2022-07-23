@@ -7,3 +7,10 @@ My name is Josh Pitts. I like to code and hack, and to write code that patches c
 - ✍️ New Blog: https://joshpitts.medium.com/
 - 🗞 Old Blog: http://secureallthethings.blogspot.com/
 
+----
+
+# Corporate Sponsors
+|Name | Logo|
+|----|----|
+| [Boston Cybernetics Institute](https://www.bostoncyber.org) |![logo](https://static.wixstatic.com/media/3ec528_cc059af6ce2044649fb3bb5aca88a4c7~mv2.png/v1/fill/w_600,h_576,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3ec528_cc059af6ce2044649fb3bb5aca88a4c7~mv2.png)((https://www.bostoncyber.org)) |
+|test|test|
