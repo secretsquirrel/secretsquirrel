@@ -12,4 +12,4 @@ My name is Josh Pitts. I like to code and hack, and to write code that patches c
 # Corporate Sponsors
 
 [![Boston Cybernetics Institute](https://static.wixstatic.com/media/3ec528_cc059af6ce2044649fb3bb5aca88a4c7~mv2.png/v1/fill/w_300,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3ec528_cc059af6ce2044649fb3bb5aca88a4c7~mv2.png)](https://www.bostoncyber.org)
-[![FortyNorth Security](https://avatars.githubusercontent.com/u/39602924?s=275&v=4)](https://www.fortynorthsecurity.com/)
+[![FortyNorth Security](https://avatars.githubusercontent.com/u/39602924?s=280&v=4)](https://www.fortynorthsecurity.com/)
