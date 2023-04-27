@@ -1,6 +1,6 @@
 ### Hello There!
 
-My name is Josh Pitts. I like to code and hack, and to write code that patches code into others' people code. USMC Vet. I used to to do Ironman races and marathons. Now I raise a family and do BJJ. These are my personal projects.
+My name is Josh Pitts. I like to code and hack, and to write code that patches code into others' people code. USMC Vet. These are my personal projects.
 
 - 🔭 I'm currently adding research and code for my [sponsors](https://github.com/sponsors/secretsquirrel)
 - 🐥 Twitter: [@usernamedjosh](https://twitter.com/ausernamedjosh)
