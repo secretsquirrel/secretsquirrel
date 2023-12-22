@@ -3,9 +3,10 @@
 My name is Josh Pitts. I like to code and hack, and to write code that patches code into others' people code. USMC Vet. These are my personal projects.
 
 - 🔭 I'm currently adding research and code for my [sponsors](https://github.com/sponsors/secretsquirrel)
-- 🐥 Twitter: [@usernamedjosh](https://twitter.com/ausernamedjosh)
-- ✍️ New Blog: https://joshpitts.medium.com/
-- 🗞 Old Blog: http://secureallthethings.blogspot.com/
+- 𝕏 [@usernamedjosh](https://twitter.com/ausernamedjosh)
+- 🖍️ Current Blog: https://cryptonominom.com/ 
+- ✍️ Older Blog: https://joshpitts.medium.com/
+- 🗞 Oldest Blog: http://secureallthethings.blogspot.com/
 
 ----
 
